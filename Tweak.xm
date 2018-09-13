@@ -23,6 +23,7 @@ static NSString *HotspotColor = @"HotspotColor";
 -(void)layoutSubviews
 {
     %orig;
+    //Cycle through button subviews and set the color of the button
     for (UIView* subview in self.subviews)
     {
         if (![subview isMemberOfClass:[UIImageView class]] && ![subview isMemberOfClass:[objc_getClass("MTMaterialView") class]] && ![subview isMemberOfClass:[objc_getClass("CCUICAPackageView") class]])
