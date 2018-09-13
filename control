@@ -1,0 +1,9 @@
+Package: com.rustybalboadev.creamxi
+Name: CreamXI
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Updated Version Of Cream
+Maintainer: Rustybalboa
+Author: Rustybalboa
+Section: Tweaks
