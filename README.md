@@ -1,2 +1,2 @@
 # CreamXI
-Updated version of Cream
+Cream updated for iOS 11.
